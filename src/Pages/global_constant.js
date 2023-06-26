@@ -1,0 +1,1 @@
+export const API_URL = "https://password-reset-backend-a3b9bxtsw-arunkumarvk4.vercel.app";
